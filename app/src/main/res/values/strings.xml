@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">vmeet</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="enter">Enter</string>
+    <string name="join_meeting">Join Meeting</string>
+    <string name="create_meeting">Create Meeting</string>
+    <string name="enter_meeting_id">Enter meeting id</string>
+</resources>
